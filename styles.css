@@ -1,0 +1,30 @@
+.recipes {
+  color: purple;
+}
+
+.recipes:hover { 
+  font-size: 40px;
+}
+
+.index-h2 {
+  text-align: center;
+}
+
+
+ul li::marker {
+  color: gold;
+}
+
+ol li {
+  margin-bottom: 8px;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
